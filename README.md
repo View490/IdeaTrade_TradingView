@@ -1,0 +1,1 @@
+get_all_timeframe.py need "symbols_and_exchanges.csv" for symbo and exchange information
