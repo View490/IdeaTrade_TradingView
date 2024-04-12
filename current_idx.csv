@@ -1,2 +1,4 @@
 Symbol,TimeFrame,current_idx
-,Interval.in_1_minute,10.0
+,Interval.in_1_minute,15.0
+,Interval.in_3_minute,15.0
+,Interval.in_5_minute,10.0
