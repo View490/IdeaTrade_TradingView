@@ -1,0 +1,291 @@
+id,Symbol,full_name,VWAP,Price,Exchange,Country,Sector
+604,ZER,ZETA RESOURCES LIMITED,0.32,0.32,ASX,Bermuda,Miscellaneous
+5887,VIS,VATRYGGINGAFELAG ISLANDS HF.,14.77,14.7,OMXICE,Iceland,Finance
+6891,VAL,Valaris Limited,66.69,66.37,NYSE,Bermuda,Industrial Services
+7225,UTLI,UIL FINANCE LTD 2028 ZDP SHS GBP0.038676 (DI),87.67,88.5,LSE,Bermuda,Miscellaneous
+7226,UTLH,UIL FINANCE LTD RED ZDP 31/10/26 GBP0.10 (DI),107.48,107.0,LSE,Bermuda,Miscellaneous
+7227,UTLG,UIL FINANCE LTD RED ZDP 31/10/24 GBP0.038025 (DI),0.0,126.0,LSE,Bermuda,Miscellaneous
+7228,UTL,UIL LTD ORD GBP0.10(DI),0.0,117.0,LSE,Bermuda,Miscellaneous
+8285,UG6,SFL CORP. LTD DL 1,0.0,10.23,MUN,Bermuda,Transportation
+8286,UG6,SFL CORP. LTD DL 1,0.0,9.97,DUS,Bermuda,Transportation
+8287,UG6,SFL CORPORATION LTD,10.14,10.06,TRADEGATE,Bermuda,Transportation
+8288,UG6,SFL CORP. LTD DL 1,0.0,10.22,HAM,Bermuda,Transportation
+8289,UG6,SFL CORP. LTD DL 1,0.0,10.22,HAN,Bermuda,Transportation
+8290,UG6,SFL CORP. LTD DL 1,0.0,10.22,BER,Bermuda,Transportation
+8291,UG6,SFL CORP. LTD DL 1,10.22,10.18,FWB,Bermuda,Transportation
+8292,UG6,SFL CORP. LTD DL 1,0.0,9.98,SWB,Bermuda,Transportation
+8865,TXT,TEXTAINER GROUP HLDGS LTD,89899.33,89999.0,JSE,Bermuda,Finance
+9564,TRTN/PE,Triton International Limited 5.75% Series E Cumulative Redeemable Perpetual Preference Shares,19.12,19.06,NYSE,Bermuda,Finance
+9565,TRTN/PD,Triton International Limited 6.875% Series D Cumulative Redeemable Perpetual Preference Shares,22.6,22.5,NYSE,Bermuda,Finance
+9566,TRTN/PC,Triton International Limited 7.375% Series C Cumulative Redeemable Perpetual Preference Shares,23.52,23.44,NYSE,Bermuda,Finance
+9567,TRTN/PB,Triton International Limited 8.00% Series B Cumulative Redeemable Perpetual Preference Shares,24.94,24.97,NYSE,Bermuda,Finance
+9568,TRTN/PA,Triton International Limited 8.50% Series A Cumulative Redeemable Perpetual Preference Shares,25.68,25.6,NYSE,Bermuda,Finance
+10417,TNK,Teekay Tankers Ltd.,50.08,49.85,NYSE,Bermuda,Transportation
+10902,TK/N,TEEKAY CORPORATION,118.55,118.55,BMV,Bermuda,Transportation
+10906,TK,Teekay Corporation,6.94,6.91,NYSE,Bermuda,Transportation
+11471,TGH/PB,"Textainer Group Holdings Limited Depositary Shares, each representing a 1/1,000th interest in a share of 6.250% Series B Cumulative Redeemable Perpetual Prefere",24.3,24.3,NYSE,Bermuda,Finance
+11472,TGH/PA,"Textainer Group Holdings Limited Depositary Shares, each representing a 1/1000th interest in a share of 7.000% Series A Cumulative Redeemable Perpetual Preferen",24.85,24.81,NYSE,Bermuda,Finance
+11478,TGH,Textainer Group Holdings Limited,49.39,49.43,NYSE,Bermuda,Finance
+12883,SYN,SYN HF.,42.6,42.6,OMXICE,Iceland,Communications
+13333,SVN,SILDARVINNSLAN HF.,92.27,92.4,OMXICE,Iceland,Consumer Non-Durables
+15023,SPNT/PB,"SiriusPoint Ltd. 8.00% Resettable Fixed Rate Preference Shares, Series B, $25.00 liquidation preference per share",24.88,24.89,NYSE,Bermuda,Finance
+15024,SPNT,SiriusPoint Ltd.,10.64,10.65,NYSE,Bermuda,Finance
+15537,SOLID,SOLID CLOUDS HF.,2.5,2.5,OMXICE,Iceland,Technology Services
+15587,SOIEF,Stolt-Nielsen Ltd,29.96,29.96,OTC,Bermuda,Transportation
+15814,SNIO,STOLT-NIELSEN LTD.,338.0,338.0,OMXSTO,Bermuda,Transportation
+15825,SNI,STOLT-NIELSEN LIMITED,328.33,327.5,OSL,Bermuda,Transportation
+16312,SLP,SYLVANIA PLATINUM LTD CMN SHS USD0.01 (DI),69.0,69.0,LSE,Bermuda,Non-Energy Minerals
+16587,SKEL,SKEL FJARFESTINGAFELAG HF.,12.53,12.7,OMXICE,Iceland,Distribution Services
+16649,SJOVA,SJOVA-ALMENNAR TRYGGINGAR HF.,32.27,32.3,OMXICE,Iceland,Finance
+16890,SIMINN,SIMINN HF.,8.48,8.55,OMXICE,Iceland,Communications
+17007,SIG,Signet Jewelers Limited,78.44,77.42,NYSE,Bermuda,Retail Trade
+17793,SFS_B,SLATURFELAG SUÐURLANDS SVF.,1.8,1.8,OMXICE,Iceland,Distribution Services
+17839,SFL,SFL Corporation Ltd,10.99,10.92,NYSE,Bermuda,Transportation
+18260,SEAPT,SEACREST PETROLEO BERMUDA LIMITED,10.88,10.85,OSL,Bermuda,Energy Minerals
+18265,SEAOF,SEACO LIMITED,0.0,0.0,OTC,Bermuda,Transportation
+18352,SDRLO,SEADRILL LIMITED,448.5,448.5,OMXSTO,Bermuda,Industrial Services
+18353,SDRL,SEADRILL LIMITED,449.17,443.0,OSL,Bermuda,Industrial Services
+18354,SDRL,Seadrill Limited,40.57,40.04,NYSE,Bermuda,Industrial Services
+19299,SAPLF,Sylvania Platinum Limited,0.9,0.9,OTC,Bermuda,Non-Energy Minerals
+20478,RRJ,RENAISSANCERE HLDGS DL 1,0.0,186.0,SWB,Bermuda,Finance
+20479,RRJ,RENAISSANCERE HLDGS DL 1,0.0,186.0,FWB,Bermuda,Finance
+20480,RRJ,RENAISSANCERE HLDGS DL 1,0.0,186.0,DUS,Bermuda,Finance
+20481,RRJ,RENAISSANCERE HOLDINGS LTD,0.0,189.0,TRADEGATE,Bermuda,Finance
+20482,RRJ,RENAISSANCERE HLDGS DL 1,0.0,187.0,MUN,Bermuda,Finance
+20483,RRJ,RENAISSANCERE HLDGS DL 1,0.0,186.0,BER,Bermuda,Finance
+20518,RQIHF,Randall & Quilter Investment Holdings Ltd.,0.13,0.14,OTC,Bermuda,Finance
+20519,RQIH,R&Q INSURANCE HOLDINGS LTD ORD GBP0.02 (DI),10.91,10.75,LSE,Bermuda,Finance
+20709,ROMO,ROMREAL LTD.,2.3,2.3,OMXSTO,Bermuda,Finance
+20725,ROM,ROMREAL LTD,1.96,2.0,OSL,Bermuda,Finance
+20849,RNR/PG,"RenaissanceRe Holdings Ltd. Depositary Shares, each representing a 1/1,000th interest in a share of 4.20% Series G Preference Shares",16.75,16.74,NYSE,Bermuda,Finance
+20850,RNR/PF,"RenaissanceRe Holdings Ltd. Depositary Shares, each Representing a 1/1,000th Interest in a 5.750% Series F Preference Share",22.96,22.99,NYSE,Bermuda,Finance
+20851,RNR,RenaissanceRe Holdings Ltd.,204.35,204.36,NYSE,Bermuda,Finance
+21716,REITIR,REITIR FASTEIGNAFELAG HF,76.42,76.75,OMXICE,Iceland,Finance
+21737,REGINN,REGINN HF.,22.3,22.4,OMXICE,Iceland,Finance
+24447,PRE/PJ,"PartnerRe Ltd. 4.875% Fixed Rate Non-Cumulative Redeemable Preferred Shares, Series J",18.11,18.02,NYSE,Bermuda,Finance
+24624,PPLA11,PPLA UNT,3.73,3.7,BMFBOVESPA,Bermuda,Finance
+25352,PLAY,FLY PLAY HF.,8.07,8.25,OMXICE,Iceland,Transportation
+27499,OSSR,OSSUR HF,27.67,27.8,OMXCOP,Iceland,Health Technology
+28187,OLGERD,OLGERÐIN EGILL SKALLAGRIMSSON HF.,12.53,12.6,OMXICE,Iceland,Consumer Non-Durables
+28491,OCN,OCEAN WILSONS HLDGS ORD GBP0.20,1137.86,1145.0,LSE,Bermuda,Transportation
+28500,OCI,OAKLEY CAPITAL INVESTMENTS LTD ORD GBP0.01 (DI),446.14,446.0,LSE,Bermuda,Miscellaneous
+29387,NTB,Bank of N.T. Butterfield & Son Limited (The) Voting,27.91,27.62,NYSE,Bermuda,Finance
+29757,NOVA,NOVA KLUBBURINN HF.,3.96,3.97,OMXICE,Iceland,Retail Trade
+29846,NOL,NORTHERN OCEAN LTD,13.26,13.24,OSL,Bermuda,Industrial Services
+29883,NODLO,NORTHERN DRILLING LTD,1.31,1.36,OMXSTO,Bermuda,Industrial Services
+29884,NODL,NORTHERN DRILLING LIMITED,1.19,1.22,OSL,Bermuda,Industrial Services
+31130,NBR,Nabors Industries Ltd.,90.5,89.3,NYSE,Bermuda,Industrial Services
+31293,NAT,Nordic American Tankers Limited,4.34,4.33,NYSE,Bermuda,Transportation
+34090,MHLD,"Maiden Holdings, Ltd.",1.65,1.65,NASDAQ,Bermuda,Finance
+34091,MHLA,"Maiden Holdings, Ltd. 6.625% Notes due 2046",15.2,15.35,NYSE,Bermuda,Finance
+35456,MAREL/N,MAREL HF,113.34,113.34,BMV,Iceland,Producer Manufacturing
+35457,MAREL,MAREL HF.,361.33,365.0,OMXICE,Iceland,Producer Manufacturing
+35458,MAREL,MAREL,2.34,2.37,EURONEXT,Iceland,Producer Manufacturing
+36692,LRE,LANCASHIRE HLDGS COM SHS USD0.50,624.63,619.0,LSE,Bermuda,Finance
+37682,LEX,LEXINGTON GOLD LTD COM SHS USD0.003 (DI),4.5,4.55,LSE,Bermuda,Non-Energy Minerals
+37939,LCSHF,Lancashire Holdings Ltd.,8.05,8.05,OTC,Bermuda,Finance
+38456,KVIKA,KVIKA BANKI HF.,13.63,13.75,OMXICE,Iceland,Finance
+39483,KLAPP_B,KLAPPIR GRAENAR LAUSNIR HF. B,13.0,13.0,OMXICE,Iceland,Technology Services
+40301,KALD,KALDALON HF,16.86,17.12,OMXICE,Iceland,Finance
+40669,JRVR,"James River Group Holdings, Ltd.",8.65,8.5,NASDAQ,Bermuda,Finance
+41043,JMHLY,Jardine Matheson Holdings Ltd.,40.74,41.22,OTC,Bermuda,Producer Manufacturing
+41564,JARLF,Jardine Matheson Holdings Ltd.,39.74,40.0,OTC,Bermuda,Producer Manufacturing
+41571,JARB,JARDINE MATHESON HLDGS ORD USD0.25,40.4,40.4,LSE,Bermuda,Producer Manufacturing
+41574,JAR,JARDINE MATHESON HLDGS ORD USD0.25,0.0,62.5,LSE,Bermuda,Producer Manufacturing
+41695,J36,JARDINE MATHESON HOLDINGS LTD,40.97,41.2,SGX,Bermuda,Producer Manufacturing
+42520,ISLAX,ICELANDIC SALMON AS,1950.0,1950.0,OMXICE,Iceland,Process Industries
+42521,ISLAX,ICELANDIC SALMON AS,146.0,145.0,OSL,Iceland,Process Industries
+42620,ISB,ISLANDSBANKI HF.,104.0,106.0,OMXICE,Iceland,Finance
+42765,IRIDQ,IRIDIUM WORLD COMMUNICATIONS,0.0,0.0,OTC,Bermuda,Communications
+44448,IFISH,ICE FISH FARM AS,26.8,28.0,OSL,Iceland,Process Industries
+45022,ICESEA,ICELAND SEAFOOD INTERNATIONAL HF.,5.92,5.95,OMXICE,Iceland,Consumer Non-Durables
+45025,ICEAIR,ICELANDAIR GROUP HF.,1.3,1.32,OMXICE,Iceland,Transportation
+46094,HSX,HISCOX ORD GBP0.065 (DI),984.83,984.0,LSE,Bermuda,Finance
+46185,HSHP,HIMALAYA SHIPPING LTD,53.8,54.4,OSL,Bermuda,Transportation
+46186,HSHP,Himalaya Shipping Ltd.,5.06,5.08,NYSE,Bermuda,Transportation
+46187,HSHIPO,HIMALAYA SHIPPING LTD,52.2,52.6,OMXSTO,Bermuda,Transportation
+46769,HNGKY,Hongkong Land Holdings Ltd.,16.66,16.7,OTC,Bermuda,Finance
+46878,HMLPF,Hoegh LNG Partners LP,13.63,13.45,OTC,Bermuda,Transportation
+47133,HKLJ,HONGKONG LAND HOLDINGS LTD ORD USD0.10(BERMUDA REG),0.0,7.41,LSE,Bermuda,Finance
+47134,HKLD,HONGKONG LAND HOLDINGS LTD ORD USD0.10(BERMUDA REG),0.0,7.41,LSE,Bermuda,Finance
+47135,HKLB,HONGKONG LAND HOLDINGS LTD ORD USD0.10(BERMUDA REG),0.0,7.41,LSE,Bermuda,Finance
+47139,HKHGF,Hongkong Land Holdings Ltd.,3.17,3.16,OTC,Bermuda,Finance
+47481,HG,"Hamilton Insurance Group, Ltd.",15.12,15.14,NYSE,Bermuda,Finance
+47692,HELE,Helen of Troy Limited,102.55,101.99,NASDAQ,Bermuda,Consumer Durables
+47950,HCXLY,"Hiscox, Ltd.",25.65,25.65,OTC,Bermuda,Finance
+47951,HCXLF,"Hiscox, Ltd.",12.1,12.1,OTC,Bermuda,Finance
+48335,HANA,HANSA INVT CO LTD GBP0.01 A (DI),190.78,188.0,LSE,Bermuda,Finance
+48337,HAN,HANSA INVT CO LTD GBP0.01 (DI),200.36,199.0,LSE,Bermuda,Finance
+48342,HAMP,HAMPIÐJAN HF.,123.17,124.0,OMXICE,Iceland,Producer Manufacturing
+48408,HAGA,HAGAR HF.,66.83,67.5,OMXICE,Iceland,Retail Trade
+48479,H78,HONGKONGLAND USD,3.38,3.38,SGX,Bermuda,Finance
+48787,GVFG,GEROVA FINANCIAL GROUP LTD,0.0,0.0,OTC,Bermuda,Finance
+48840,GUKYF,Gulf Keystone Petroleum Ltd.,1.64,1.65,OTC,Bermuda,Energy Minerals
+49553,GPIV33,GP INVEST DR3,3.15,3.14,BMFBOVESPA,Bermuda,Finance
+49556,GPINA,GPInvest Class A,0.0,0.63,LUXSE,Bermuda,Finance
+49771,GOGLO,GOLDEN OCEAN GROUP LIMITED,83.18,83.18,OMXSTO,Bermuda,Transportation
+49775,GOGL,GOLDEN OCEAN GROUP LTD,83.43,83.1,OSL,Bermuda,Transportation
+49776,GOGL,Golden Ocean Group Limited,7.58,7.53,NASDAQ,Bermuda,Transportation
+50006,GMLPF,GOLAR LNG PARTNERS LP 8.75% CUM RED PFD UNIT SER A,11.66,11.25,OTC,Bermuda,Transportation
+50222,GLNG/N,GOLAR LNG LIMITED,389.0,389.0,BMV,Bermuda,Transportation
+50223,GLNG,Golar LNG Limited,21.83,21.74,NASDAQ,Bermuda,Transportation
+50384,GKP,GULF KEYSTONE PETROLEUM COM SHS USD1.00 (DI),131.03,128.1,LSE,Bermuda,Energy Minerals
+51733,G2DI33,G2D INVEST DR3,1.94,1.93,BMFBOVESPA,Bermuda,Finance
+51787,G,Genpact Limited,33.49,33.39,NYSE,Bermuda,Commercial Services
+53324,FLNGO,FLEX LNG LTD,343.67,344.0,OMXSTO,Bermuda,Transportation
+53325,FLNG,FLEX LNG LTD (BM),340.33,337.6,OSL,Bermuda,Transportation
+53326,FLNG,FLEX LNG Ltd.,30.96,30.91,NYSE,Bermuda,Transportation
+53621,FIHL,Fidelis Insurance Holdings Limited,13.77,13.69,NYSE,Bermuda,Finance
+54003,FESTI,FESTI HF.,180.42,180.75,OMXICE,Iceland,Retail Trade
+55892,ESNT,Essent Group Ltd.,48.24,47.73,NYSE,Bermuda,Finance
+55974,ESGRP,Enstar Group Limited - Depositary Shares Each Representing 1/1000th of an interest in Preference Shares,24.61,24.58,NASDAQ,Bermuda,Finance
+55975,ESGRO,"Enstar Group Limited - Depository Shares 7.00% Perpetual Non-Cumulative Preference Shares, Series E",23.62,23.64,NASDAQ,Bermuda,Finance
+55977,ESGR,Enstar Group Limited,257.4,256.05,NASDAQ,Bermuda,Finance
+56232,ERE,"EVEREST GROUP LTD.DL -,01",0.0,354.0,FWB,Bermuda,Finance
+56233,ERE,EVEREST REINSURANCE GROUP LTD.,0.0,360.0,SWB,Bermuda,Finance
+56234,ERE,"EVEREST GROUP LTD.DL -,01",0.0,360.0,MUN,Bermuda,Finance
+56235,ERE,"EVEREST GROUP LTD.DL -,01",0.0,360.0,DUS,Bermuda,Finance
+56236,ERE,EVEREST GROUP LTD,368.0,370.0,TRADEGATE,Bermuda,Finance
+56237,ERE,"EVEREST GROUP LTD.DL -,01",0.0,358.0,HAN,Bermuda,Finance
+57811,EIM,EIMSKIPAFELAG ISLANDS HF.,450.83,452.0,OMXICE,Iceland,Transportation
+57816,EIK,EIK FASTEIGNAFELAG HF,11.0,11.1,OMXICE,Iceland,Finance
+58043,EG0,"ESSENT GROUP LTD DL-,015",0.0,45.0,FWB,Bermuda,Finance
+58044,EG0,"ESSENT GROUP LTD DL-,015",0.0,43.8,BER,Bermuda,Finance
+58045,EG,"Everest Group, Ltd.",397.23,399.31,NYSE,Bermuda,Finance
+60619,DHT/N,DHT HOLDINGS INC,199.08,199.08,BMV,Bermuda,Transportation
+60622,DHT,"DHT Holdings, Inc.",10.23,10.16,NYSE,Bermuda,Transportation
+61820,D8EN,DHT HOLDINGS INC.,0.0,9.34,SWB,Bermuda,Transportation
+61821,D8EN,"DHT HLDGS INC.NEW DL -,01",0.0,9.45,FWB,Bermuda,Transportation
+61822,D8EN,DHT HOLDINGS INC,9.44,9.36,TRADEGATE,Bermuda,Transportation
+61823,D8EN,"DHT HLDGS INC.NEW DL -,01",0.0,9.44,BER,Bermuda,Transportation
+61824,D8EN,"DHT HLDGS INC.NEW DL -,01",0.0,9.34,DUS,Bermuda,Transportation
+61942,CYTO,Altamira Therapeutics Ltd.,0.1,0.1,NASDAQ,Bermuda,Health Technology
+63307,CRE,CONDUIT HLDGS LTD COM SHS USD0.01 (DI),481.17,479.0,LSE,Bermuda,Finance
+64104,COCBF,COASTAL CARIBBEAN OILS & MINERALS,0.0,0.0,OTC,Bermuda,Energy Minerals
+64919,CLCO,COOL COMPANY LTD,146.47,145.2,OSL,Bermuda,Industrial Services
+64920,CLCO,Cool Company Ltd.,13.32,13.27,NYSE,Bermuda,Industrial Services
+67032,CATC,CATCO REINSURANCE OPPORTUNITIES FD ORD USD0.0001 C (DI),0.0,108.0,LSE,Bermuda,Miscellaneous
+67051,CAT,CATCO REINSURANCE OPPORTUNITIES FD ORD USD0.00013716 (DI),0.0,24.0,LSE,Bermuda,Miscellaneous
+67817,BWOO,BW OFFSHORE LIMITED,24.0,24.0,OMXSTO,Bermuda,Energy Minerals
+67818,BWO,BW OFFSHORE LTD,22.75,22.32,OSL,Bermuda,Energy Minerals
+68742,BRIM,BRIM HF.,66.33,66.2,OMXICE,Iceland,Process Industries
+68912,BPYPP,Brookfield Property Partners L.P. - 6.50%,13.21,13.07,NASDAQ,Bermuda,Finance
+68913,BPYPO,Brookfield Property Partners L.P. - 6.375%,13.01,12.9,NASDAQ,Bermuda,Finance
+68914,BPYPN,Brookfield Property Partners L.P. - 5.750%,11.63,11.5,NASDAQ,Bermuda,Finance
+68915,BPYPM,Brookfield Property Partners L.P. - 6.25%,13.0,13.18,NASDAQ,Bermuda,Finance
+68916,BPYP.PR.A,BROOKFIELD PPTY PFD LP 6.25% CL A CUM RED PRF UNIT SER 1,17.83,17.87,TSX,Bermuda,Finance
+68917,BPYP.PR.A,BROOKFIELD PROPERTY PREF LP SERIES 1,18.26,18.26,NEO,Bermuda,Finance
+69127,BORRO,BORR DRILLING LIMITED,70.93,70.65,OMXSTO,Bermuda,Industrial Services
+69128,BORR,BORR DRILLING LIMITED,70.42,69.0,OSL,Bermuda,Industrial Services
+69129,BORR,Borr Drilling Limited,6.32,6.15,NYSE,Bermuda,Industrial Services
+69315,BNRE.A,BROOKFIELD REINSURANCE LTD,0.0,47.11,TSX,Bermuda,Finance
+69316,BNRE,BROOKFIELD REINSURANCE LTD,46.8,46.86,NEO,Bermuda,Finance
+69317,BNRE,BROOKFIELD REINSURANCE LTD,46.94,46.76,TSX,Bermuda,Finance
+69318,BNRE,Brookfield Reinsurance Ltd.,34.01,34.07,NYSE,Bermuda,Finance
+69420,BNORDIK_CSE,BANKNORDIK P/F,163.0,165.0,OMXCOP,Faroe Islands,Finance
+69713,BMG359472021,"FLEX LNG LTD. REGISTERED SHARES DL -,10",0.0,28.66,SWB,Bermuda,Transportation
+70100,BKFKF,Bakkafrost PF,48.45,48.45,OTC,Faroe Islands,Consumer Non-Durables
+70285,BIPI,BIP Bermuda Holdings I Limited 5.125% Perpetual Subordinated Notes,16.1,16.0,NYSE,Bermuda,Commercial Services
+70291,BIP/PB,Brookfield Infrastructure Partners LP 5.000%,15.84,15.82,NYSE,Bermuda,Utilities
+70292,BIP/PA,Brookfield Infrastructure Partners LP 5.125%,16.78,16.75,NYSE,Bermuda,Utilities
+70293,BIP.UN,BROOKFIELD INFRASTRUCTURE PARTN L.P,37.95,37.9,TSX,Bermuda,Utilities
+70294,BIP.PR.F,BROOKFIELD INFRASTRUCTURE PARTN L.P CUM CL A PFD LTD PRTNR UNIT SER 11 CAD25,19.3,19.39,TSX,Bermuda,Utilities
+70295,BIP.PR.F,BROOKFIELD INFRA PARTNERS LP PREF SER 11,19.34,19.44,NEO,Bermuda,Utilities
+70296,BIP.PR.E,BROOKFIELD INFRASTRUCTURE PARTN L.P CUM PREF LTD PARTNERSHP UNITS CL A SER 9,20.55,20.65,TSX,Bermuda,Utilities
+70297,BIP.PR.E,BROOKFIELD INFRA PARTNERS LP PREF SER 9,20.55,20.55,NEO,Bermuda,Utilities
+70298,BIP.PR.B,BROOKFIELD INFRASTRUCTURE PARTN L.P PFD LTD PARTNERSHIP UNIT CL A SER 3,20.38,20.34,TSX,Bermuda,Utilities
+70299,BIP.PR.B,BROOKFIELD INFRA PARTNERS LP PREF SER 3,20.49,20.49,NEO,Bermuda,Utilities
+70300,BIP.PR.A,BROOKFIELD INFRA PARTNERS LP PREF SER 1,15.7,15.7,NEO,Bermuda,Utilities
+70301,BIP.PR.A,BROOKFIELD INFRASTRUCTURE PARTN L.P PRF SER 1 CL A,15.72,15.72,TSX,Bermuda,Utilities
+70303,BIP,Brookfield Infrastructure Partners LP Limited Partnership,27.58,27.51,NYSE,Bermuda,Utilities
+70985,BEP/PA,Brookfield Renewable Partners L.P. 5.25%,16.71,16.79,NYSE,Bermuda,Utilities
+70986,BEP.UN,BROOKFIELD RENEWABLE PARTNERS L P,34.21,34.3,TSX,Bermuda,Utilities
+70987,BEP.PR.R,BROOKFIELD RENEWABLE PARTNERS L P PFD LTD PARTNERSHIP UNIT CL A SER 18,15.95,16.0,TSX,Bermuda,Utilities
+70988,BEP.PR.R,BROOKFIELD RENEWABLE LP PREF SER 18,16.6,16.6,NEO,Bermuda,Utilities
+70989,BEP.PR.O,BROOKFIELD RENEWABLE PARTNERS L P PFD LTD PARTNERSHIP UNIT CL A SER 15,21.05,21.01,TSX,Bermuda,Utilities
+70990,BEP.PR.O,BROOKFIELD RENEWABLE LP PREF SER 15,20.7,20.7,NEO,Bermuda,Utilities
+70991,BEP.PR.M,BROOKFIELD RENEWABLE PARTNERS L P PREF LTD PARTNERSHIP UNITS CL A SER 13,17.81,17.85,TSX,Bermuda,Utilities
+70992,BEP.PR.M,BROOKFIELD RENEWABLE LP PREF SER 13,17.87,18.0,NEO,Bermuda,Utilities
+70993,BEP.PR.G,BROOKFIELD RENEWABLE LP PREF SER 7,19.57,19.6,NEO,Bermuda,Utilities
+70994,BEP.PR.G,BROOKFIELD RENEWABLE PARTNERS L P PFD LTD PARTNERSHIP UNITS CL A SER 7,19.71,19.62,TSX,Bermuda,Utilities
+70996,BEP,Brookfield Renewable Partners L.P.,24.84,24.91,NYSE,Bermuda,Utilities
+71990,BAKKAO,BAKKAFROST P/F,523.5,523.5,OMXSTO,Faroe Islands,Consumer Non-Durables
+71991,BAKKA,P/F BAKKAFROST,521.0,518.0,OSL,Faroe Islands,Consumer Non-Durables
+72488,AXS/PE,"Axis Capital Holdings Limited Depositary Shares, each representing 1/100th interest in a share of a 5.50% Series E Preferred Shares",20.85,20.87,NYSE,Bermuda,Finance
+72491,AXS,Axis Capital Holdings Limited,53.98,53.51,NYSE,Bermuda,Finance
+72909,AVACF,Avance Gas Holding Ltd.,14.91,14.87,OTC,Bermuda,Transportation
+73259,ATLA_DKK,ATLANTIC PETROLEUM P/F,2.89,2.89,OMXCOP,Faroe Islands,Energy Minerals
+73298,ATH/PE,"Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 7.750% Fixed-Rate Reset Perpetual Non-Cumulative Preference Share, Series E",25.37,25.32,NYSE,Bermuda,Finance
+73299,ATH/PD,"Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 4.875% Fixed-Rate Perpetual Non-Cumulative Preference Share, Series D",16.75,16.63,NYSE,Bermuda,Finance
+73300,ATH/PC,"Athene Holding Ltd. Depositary Shares, each representing a 1/1,000th Interest in a Share of 6.375% Fixed-Rate Reset Perpetual Non-Cumulative Preference Shares,",24.65,24.65,NYSE,Bermuda,Finance
+73301,ATH/PB,"Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 5.625% Fixed Rate Perpetual Non- Cumulative Preference Share, Series B, par v",20.43,20.32,NYSE,Bermuda,Finance
+73302,ATH/PA,"Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 6.35% Fixed-to-Floating Rate Perpetual Non-Cumulative Preference Share, Serie",22.99,22.96,NYSE,Bermuda,Finance
+73780,ASC,Ardmore Shipping Corporation,12.98,12.88,NYSE,Bermuda,Transportation
+74080,ARION_SDB,ARION BANKI HF SDB,9.86,9.92,OMXSTO,Iceland,Finance
+74081,ARION,ARION BANKI HF.,129.17,129.5,OMXICE,Iceland,Finance
+74114,ARGO/PA,"Argo Group International Holdings, Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 7.00% Resettable Fixed Rate Preference Share, Series A",22.9,22.85,NYSE,Bermuda,Finance
+74118,ARGO,"Argo Group International Holdings, Ltd.",29.99,29.99,NYSE,Bermuda,Finance
+74644,AOREF,American Overseas Group Limited,185.0,185.0,OTC,Bermuda,Finance
+76635,AHL/PE,"Aspen Insurance Holdings Limited Depositary Shares, each representing a 1/1000th interest in a share of 5.625% Perpetual Non-Cumulative Preference Shares",18.59,18.7,NYSE,Bermuda,Finance
+76636,AHL/PD,Aspen Insurance Holdings Limited 5.625% Perpetual Non-Cumulative Preference Shares,19.63,19.67,NYSE,Bermuda,Finance
+76637,AHL/PC,Aspen Insurance Holdings Limited 5.95% Fixed-to-Floating Rate Perpetual Non-Cumulative Preference Shares,25.44,25.44,NYSE,Bermuda,Finance
+76769,AGO,Assured Guaranty Ltd.,65.81,65.54,NYSE,Bermuda,Finance
+76917,AGASO,AVANCE GAS HOLDING LTD.,167.0,167.0,OMXSTO,Bermuda,Transportation
+76918,AGAS,AVANCE GAS HOLDING LIMITED,165.87,165.0,OSL,Bermuda,Transportation
+77051,AFISH,ARCTIC FISH HOLDING AS,77.67,80.0,OSL,Iceland,Process Industries
+77916,ACGLO,"Arch Capital Group Ltd. - Depositary Shares Each Representing 1/1,000th Interest in a Share of5.45% Non-Cumulative Preferred Shares, Series F",22.51,22.48,NASDAQ,Bermuda,Finance
+77917,ACGLN,"Arch Capital Group Ltd. - Depositary Shares, each Representing a 1/1,000th Interest in a 4.550% Non-Cumulative Preferred Share, Series G",19.15,19.16,NASDAQ,Bermuda,Finance
+77918,ACGL,Arch Capital Group Ltd.,83.7,83.71,NASDAQ,Bermuda,Finance
+78634,A61,"ARDMORE SHIPPING C.DL-,01",0.0,11.71,SWB,Bermuda,Transportation
+78635,A61,"ARDMORE SHIPPING C.DL-,01",0.0,12.1,FWB,Bermuda,Transportation
+78636,A61,"ARDMORE SHIPPING C.DL-,01",0.0,11.9,BER,Bermuda,Transportation
+78637,A61,"ARDMORE SHIPPING C.DL-,01",0.0,11.81,DUS,Bermuda,Transportation
+78638,A61,ARDMORE SHIPPING CORP,11.86,11.87,TRADEGATE,Bermuda,Transportation
+78639,A61,"ARDMORE SHIPPING C.DL-,01",0.0,12.27,MUN,Bermuda,Transportation
+89278,3T7,TEXTAINER GROUP HLDGS LTD,0.0,45.0,FWB,Bermuda,Finance
+89279,3T7,TEXTAINER GROUP HOLDINGS LTD.,0.0,44.8,SWB,Bermuda,Finance
+89280,3T7,TEXTAINER GROUP HLDGS LTD,45.4,45.6,TRADEGATE,Bermuda,Finance
+89281,3T7,TEXTAINER GROUP HLDGS LTD,0.0,45.8,MUN,Bermuda,Finance
+89282,3T7,TEXTAINER GROUP HLDGS LTD,0.0,45.0,BER,Bermuda,Finance
+90323,35G,"GENPACT LTD DL 0,01",0.0,30.8,FWB,Bermuda,Commercial Services
+90324,35G,GENPACT LTD.,0.0,30.6,SWB,Bermuda,Commercial Services
+90325,35G,"GENPACT LTD DL 0,01",0.0,30.8,BER,Bermuda,Commercial Services
+90326,35G,"GENPACT LTD DL 0,01",0.0,30.8,MUN,Bermuda,Commercial Services
+90327,35G,GENPACT LIMITED,30.87,30.8,TRADEGATE,Bermuda,Commercial Services
+90328,35G,"GENPACT LTD DL 0,01",0.0,30.4,DUS,Bermuda,Commercial Services
+95041,2020O,2020 BULKERS LTD.,110.23,110.5,OMXSTO,Bermuda,Transportation
+95043,2020,2020 BULKERS LTD,109.23,109.6,OSL,Bermuda,Transportation
+98428,0YTA,ARION BANK SDR EACH REP 1 ISK1,9.76,9.76,LSE,Iceland,Finance
+98671,0UC0,NORDIC AMERICAN TANKERS LIMITED USD0.01,4.34,4.35,LSE,Bermuda,Transportation
+98675,0U96,EVEREST GROUP LTD COM STK USD0.01,395.66,396.36,LSE,Bermuda,Finance
+98676,0U95,ESSENT GROUP LTD COM USD0.015,49.06,48.97,LSE,Bermuda,Finance
+98787,0RQ8,FLEX LNG LTD (BM) USD0.10,338.1,338.1,LSIN,Bermuda,Transportation
+98845,0RKH,BW OFFSHORE LTD USD0.50,22.71,22.44,LSIN,Bermuda,Energy Minerals
+98862,0RII,GOLDEN OCEAN GROUP LTD COM USD0.01,83.45,83.1,LSIN,Bermuda,Transportation
+99207,0QTX,AVANCE GAS HOLDING LIMITED USD1,166.33,165.8,LSIN,Bermuda,Transportation
+99241,0QQA,"FLEX LNG LTD DL-,10",28.59,28.34,FWB,Bermuda,Transportation
+99242,0QQA,"FLEX LNG LTD DL-,10",0.0,28.26,DUS,Bermuda,Transportation
+99243,0QQA,FLEX LNG LTD (BM),28.49,28.38,TRADEGATE,Bermuda,Transportation
+99244,0QQA,"FLEX LNG LTD DL-,10",0.0,28.6,BER,Bermuda,Transportation
+99245,0QQA,"FLEX LNG LTD DL-,10",0.0,28.86,MUN,Bermuda,Transportation
+99513,0RQ8,FLEX LNG LTD (BM) USD0.10,338.1,338.1,LSIN,Bermuda,Transportation
+99571,0RKH,BW OFFSHORE LTD USD0.50,22.71,22.44,LSIN,Bermuda,Energy Minerals
+99588,0RII,GOLDEN OCEAN GROUP LTD COM USD0.01,83.45,83.1,LSIN,Bermuda,Transportation
+99933,0QTX,AVANCE GAS HOLDING LIMITED USD1,166.33,165.8,LSIN,Bermuda,Transportation
+99967,0QQA,"FLEX LNG LTD DL-,10",28.59,28.34,FWB,Bermuda,Transportation
+99968,0QQA,"FLEX LNG LTD DL-,10",0.0,28.26,DUS,Bermuda,Transportation
+99969,0QQA,FLEX LNG LTD (BM),28.49,28.38,TRADEGATE,Bermuda,Transportation
+99970,0QQA,"FLEX LNG LTD DL-,10",0.0,28.6,BER,Bermuda,Transportation
+99971,0QQA,"FLEX LNG LTD DL-,10",0.0,28.86,MUN,Bermuda,Transportation
+100272,0OHK,STOLT-NIELSEN LIMITED USD1,328.17,327.51,LSE,Bermuda,Transportation
+100593,0MQ2,P/F BAKKAFROST DKK1,519.48,518.0,LSIN,Faroe Islands,Consumer Non-Durables
+101701,0HDY,GOLAR LNG LIMITED COM STK USD1.00,21.81,21.66,LSE,Bermuda,Transportation
+101971,0FF,2020 BULKERS LTD.,0.0,9.07,SWB,Bermuda,Transportation
+101972,0FF,2020 BULKERS LTD DL 1,9.29,9.36,FWB,Bermuda,Transportation
+101973,0FF,2020 BULKERS LTD DL 1,0.0,9.25,BER,Bermuda,Transportation
+101974,0FF,2020 BULKERS LTD,9.26,9.29,TRADEGATE,Bermuda,Transportation
+101975,0FF,2020 BULKERS LTD DL 1,0.0,9.2,DUS,Bermuda,Transportation
+101976,0FF,2020 BULKERS LTD DL 1,0.0,9.16,MUN,Bermuda,Transportation
+102038,0EAQ,TEEKAY TANKERS LTD COM USD0.01 (POST REV SPLIT) CLASS A,50.13,49.95,LSE,Bermuda,Transportation
+102184,0BDR,BORR DRILLING LIMITED USD0.10,70.46,69.0,LSIN,Bermuda,Industrial Services
+102370,0A6M,NABORS INDUSTRIES LTD COM USD0.05(POST REV SPLIT),90.64,89.36,LSE,Bermuda,Industrial Services
