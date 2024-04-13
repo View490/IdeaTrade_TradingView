@@ -52,8 +52,10 @@ def get_df_daily_stock(TimeFrame=Interval.in_daily, csv_path='./symbols_and_exch
             csv_writer.writerow(['TimeFrame', 'current_idx'])
             # csv_writer.writerow(["Symbol"] + ['TimeFrame'])
     
-    with open(csv_path, 'r') as csvfile:
-        row_count = sum(1 for row in csv.reader(csvfile))
+    # with open(csv_path, 'r') as csvfile:
+    #     row_count = sum(1 for row in csv.reader(csvfile))
+    row_count = len(pd.read_csv(csv_path))
+    print('row_count =', row_count)
     
     # Read the CSV file into a pandas DataFrame
     tmp = pd.read_csv(csv_path)
@@ -80,6 +82,7 @@ def get_df_daily_stock(TimeFrame=Interval.in_daily, csv_path='./symbols_and_exch
             print('TOTAL = ',row_count)
             datareader = csv.reader(csvfile)
             for idx, row in enumerate(tqdm(datareader)):
+                print('[row ',idx,' sample] ',row)
                 if idx == current_pd.at[current_pd.index[current_pd['TimeFrame'] == str(TimeFrame)][0], 'current_idx']:
                     start_iteration = True
                     print('start at current_idx = ',idx)
@@ -94,7 +97,8 @@ def get_df_daily_stock(TimeFrame=Interval.in_daily, csv_path='./symbols_and_exch
                     data['TimeFrame']=str(Interval.in_1_minute).split('.in_')[-1]
                     data.reset_index(inplace=True)
                     df = df.append(data, ignore_index=True)
-                    if idx % 5 == 0:
+                    if (idx % 5 == 0) or (idx==row_count):
+                        print('[inside] idx=',idx)
                         df.to_csv(r'df_all_timeframe.csv', index=False)
                         row_index = current_pd.index[current_pd['TimeFrame'] == str(TimeFrame)][0]
                         current_pd.at[row_index, 'current_idx'] = idx
