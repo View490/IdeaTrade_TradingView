@@ -75,11 +75,11 @@ def test_vm_py(n):
     pyautogui.press('enter')
     
     # Step 7: Wait for 10 seconds
-    time.sleep(10)
+    time.sleep(5)
 
 time.sleep(1)
-start_VMs = 1
-end_VMs = 1
+start_VMs = 10
+end_VMs = 16
 for i in range(start_VMs,1+end_VMs):
     print(i)
     test_vm_py(i)
