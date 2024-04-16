@@ -78,11 +78,18 @@ def get_df_daily_stock(TimeFrame=Interval.in_daily, csv_path='./symbols_and_exch
     if start_scrapping:
         print('[INITIAL] DF length = ', len(df), 'TimeFrame = ',TimeFrame)
         done_timeframe.append(TimeFrame)
-        with open(csv_path, 'r') as csvfile:
-            print('TOTAL = ',row_count)
+        
+        """
+        with open("your_file.txt", "r", encoding="utf-8") as file:
+            content = file.read()
+        """
+        with open(csv_path, 'r', encoding="utf-8") as csvfile:
             datareader = csv.reader(csvfile)
+        # with open(csv_path, 'r') as csvfile:
+            # datareader = csv.reader(csvfile)
+            print('TOTAL = ',row_count)
             for idx, row in enumerate(tqdm(datareader)):
-                print('[row ',idx,' sample] ',row)
+                # print('[row ',idx,' sample] ',row)
                 if idx == current_pd.at[current_pd.index[current_pd['TimeFrame'] == str(TimeFrame)][0], 'current_idx']:
                     start_iteration = True
                     print('start at current_idx = ',idx)
@@ -130,13 +137,25 @@ def main():
 
     done_timeframe = []
     done_symbol = [0] * len(TimeFrames)
-
-    for idx, TimeFrame in enumerate(TimeFrames):
-        if idx==0:
-            df = get_df_daily_stock(TimeFrame=TimeFrame)
-        else:
-            df = get_df_daily_stock(TimeFrame=TimeFrame, df=df)
-        print('>>> [status] length df = {}, \t TimeFrame={}'.format(len(df), TimeFrame))
+    
+    count_error = 0
+    loop_cond = True
+    while loop_cond:
+        try:
+            for idx, TimeFrame in enumerate(TimeFrames):
+                if idx==0:
+                    df = get_df_daily_stock(TimeFrame=TimeFrame)
+                else:
+                    df = get_df_daily_stock(TimeFrame=TimeFrame, df=df)
+                print('>>> [status] length df = {}, \t TimeFrame={}'.format(len(df), TimeFrame))
+            loop_cond = False
+            print('[LOOP STATUS] END OF LOOP')
+        except:
+            count_error = count_error +1
+            print('[LOOP STATUS] TIMEOUT > REPEAT LOOP')
+            if count_error == 10:
+                loop_cond = False
+                print('[LOOP STATUS] too many error > break looping.')
     df.to_csv(r'df_all_timeframe.csv', index=False)
  
 if __name__=="__main__":
