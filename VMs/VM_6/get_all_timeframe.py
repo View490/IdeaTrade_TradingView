@@ -153,9 +153,9 @@ def main():
         except:
             count_error = count_error +1
             print('[LOOP STATUS] TIMEOUT > REPEAT LOOP')
-            if count_error == 10:
-                loop_cond = False
-                print('[LOOP STATUS] too many error > break looping.')
+            if count_error == 100:
+                # loop_cond = False
+                print('[LOOP STATUS] too many error: ERROR > 100 times.')
     df.to_csv(r'df_all_timeframe.csv', index=False)
  
 if __name__=="__main__":
