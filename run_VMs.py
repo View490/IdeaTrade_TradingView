@@ -78,8 +78,8 @@ def test_vm_py(n):
     time.sleep(5)
 
 time.sleep(1)
-start_VMs = 10
-end_VMs = 16
+start_VMs = 16
+end_VMs = 21
 for i in range(start_VMs,1+end_VMs):
     print(i)
     test_vm_py(i)
